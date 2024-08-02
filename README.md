@@ -1,7 +1,9 @@
 # 💫 About Me:
 🔭 I’m currently working on RAG Models <br>👯 I’m looking to collaborate on ML Projects<br>🤝 I’m looking for help with GAN<br>🌱 I’m currently learning MLOPS<br>💬 Ask me about Data Science<br>⚡ Fun fact Certified caffeine enthusiast
 
-
+<p align="left">
+ <img width="880" src="assets/github-snake.svg" alt="snake"/>
+</p>
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/akshat-shrivastava--tech) 
 
